@@ -32,7 +32,6 @@ import (
 
 	bitswap "gx/ipfs/QmNkxFCmPtr2RQxjZNRCNryLud4L9wMEiBJsLgF14MqTHj/go-bitswap"
 	bsnet "gx/ipfs/QmNkxFCmPtr2RQxjZNRCNryLud4L9wMEiBJsLgF14MqTHj/go-bitswap/network"
-	config "gx/ipfs/QmPEpj17FDRpc7K1aArKZp3RsHtzRMKykeK9GVgn4WQGPR/go-ipfs-config"
 	cid "gx/ipfs/QmPSQnBKM9g7BaUcZCvswUJVscQ1ipjmwxN5PXCjkp9EQ7/go-cid"
 	u "gx/ipfs/QmPdKqUcHGFdeSpvjVoaTRPPstGif9GBZb5Q56RVw9o69A/go-ipfs-util"
 	ic "gx/ipfs/QmPvyPwuCgJ7pDmrKDxRtsScJgBaM5h4EpRL2qQJsmXf4n/go-libp2p-crypto"
@@ -55,6 +54,7 @@ import (
 	identify "gx/ipfs/QmUDTcnDp2WssbmiDLC6aYurUeyt7QeRakHUQMxA2mZ5iB/go-libp2p/p2p/protocol/identify"
 	psrouter "gx/ipfs/QmUhJjacEW7gDGsvxzn8NqyfCWRksgTtYeaGvQmgYvrmWH/go-libp2p-pubsub-router"
 	mfs "gx/ipfs/QmUwXQs8aZ472DmXZ8uJNf7HJNKoMJQVa7RaCz7ujZ3ua9/go-mfs"
+	config "gx/ipfs/QmVFZsFtfRgn6hxEAyW5rDiuUYPpiCML4XHtz1p7LDsdon/go-ipfs-config"
 	quic "gx/ipfs/QmVX7uSFmFLZRFsN9QNPDJf7Pmhuv4GdedrKYrt2xXm5ag/go-libp2p-quic-transport"
 	circuit "gx/ipfs/QmVYDvJjiKb9iFEyHxx4i1TJSRBLkQhGb5Fc8XpmDuNCEA/go-libp2p-circuit"
 	ifconnmgr "gx/ipfs/QmWRvjn5BHMLCGkf48Hk1LDc4W72RPA9H59AAVCXmn9esJ/go-libp2p-interface-connmgr"
