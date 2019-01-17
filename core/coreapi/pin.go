@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	coreiface "github.com/ipfs/go-ipfs/core/coreapi/interface"
-	caopts "github.com/ipfs/go-ipfs/core/coreapi/interface/options"
-	corerepo "github.com/ipfs/go-ipfs/core/corerepo"
+	coreiface "github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface"
+	caopts "github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface/options"
+	corerepo "github.com/elastos/Elastos.NET.Hive.IPFS/core/corerepo"
 	merkledag "gx/ipfs/QmSei8kFMfqdJq7Q68d2LMnHbTWKKg2daA29ezUYFAUNgc/go-merkledag"
 	bserv "gx/ipfs/QmWfhv1D18DRSiSm73r4QGcByspzPtxxRTcmHW3axFXZo8/go-blockservice"
 

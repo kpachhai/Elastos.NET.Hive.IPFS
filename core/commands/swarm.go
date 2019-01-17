@@ -7,11 +7,11 @@ import (
 	"path"
 	"sort"
 
-	"github.com/ipfs/go-ipfs/commands"
-	"github.com/ipfs/go-ipfs/core/commands/cmdenv"
-	"github.com/ipfs/go-ipfs/core/commands/e"
-	"github.com/ipfs/go-ipfs/repo"
-	"github.com/ipfs/go-ipfs/repo/fsrepo"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/commands"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/cmdenv"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/e"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/repo"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/repo/fsrepo"
 
 	mafilter "gx/ipfs/QmSMZwvs3n4GBikZ7hKzT17c3bk65FmyZo2JqtJ16swqCv/multiaddr-filter"
 	"gx/ipfs/QmSXUokcP4TJpFfqozT69AVAYRtzXVMUjzQVkYX41R9Svs/go-ipfs-cmds"

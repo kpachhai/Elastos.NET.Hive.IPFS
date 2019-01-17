@@ -10,9 +10,9 @@ import (
 	"path/filepath"
 	"strconv"
 
-	core "github.com/ipfs/go-ipfs/core"
-	coreiface "github.com/ipfs/go-ipfs/core/coreapi/interface"
-	"github.com/ipfs/go-ipfs/pin"
+	core "github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	coreiface "github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/pin"
 
 	cid "gx/ipfs/QmPSQnBKM9g7BaUcZCvswUJVscQ1ipjmwxN5PXCjkp9EQ7/go-cid"
 	posinfo "gx/ipfs/QmQyUyYcpKG1u53V7N25qRTGw5XwaAxTMKXbduqHotQztg/go-ipfs-posinfo"

@@ -6,11 +6,11 @@ import (
 	"io"
 	"os"
 
-	util "github.com/ipfs/go-ipfs/blocks/blockstoreutil"
-	cmdenv "github.com/ipfs/go-ipfs/core/commands/cmdenv"
-	e "github.com/ipfs/go-ipfs/core/commands/e"
-	coreiface "github.com/ipfs/go-ipfs/core/coreapi/interface"
-	"github.com/ipfs/go-ipfs/core/coreapi/interface/options"
+	util "github.com/elastos/Elastos.NET.Hive.IPFS/blocks/blockstoreutil"
+	cmdenv "github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/cmdenv"
+	e "github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/e"
+	coreiface "github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface/options"
 
 	mh "gx/ipfs/QmPnFwZ2JXKnXgMw8CdBPxn7FWh6LLdjUjxV1fKHuJnkr8/go-multihash"
 	cmds "gx/ipfs/QmSXUokcP4TJpFfqozT69AVAYRtzXVMUjzQVkYX41R9Svs/go-ipfs-cmds"

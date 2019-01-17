@@ -7,7 +7,7 @@ import (
 	path "gx/ipfs/QmT3rzed1ppXefourpmoZ7tyVQfsGPQZ1pHDngLmCvXxd3/go-path"
 	proquint "gx/ipfs/QmYnf27kzqR2cxt6LFZdrAFJuQd6785fTkBvMuEj9EeRxM/proquint"
 
-	opts "github.com/ipfs/go-ipfs/namesys/opts"
+	opts "github.com/elastos/Elastos.NET.Hive.IPFS/namesys/opts"
 )
 
 type ProquintResolver struct{}

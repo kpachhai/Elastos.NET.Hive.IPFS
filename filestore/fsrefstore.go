@@ -8,7 +8,7 @@ import (
 	"os"
 	"path/filepath"
 
-	pb "github.com/ipfs/go-ipfs/filestore/pb"
+	pb "github.com/elastos/Elastos.NET.Hive.IPFS/filestore/pb"
 
 	cid "gx/ipfs/QmPSQnBKM9g7BaUcZCvswUJVscQ1ipjmwxN5PXCjkp9EQ7/go-cid"
 	posinfo "gx/ipfs/QmQyUyYcpKG1u53V7N25qRTGw5XwaAxTMKXbduqHotQztg/go-ipfs-posinfo"

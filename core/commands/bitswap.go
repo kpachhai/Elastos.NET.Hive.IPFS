@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"io"
 
-	oldcmds "github.com/ipfs/go-ipfs/commands"
-	lgc "github.com/ipfs/go-ipfs/commands/legacy"
-	cmdenv "github.com/ipfs/go-ipfs/core/commands/cmdenv"
-	e "github.com/ipfs/go-ipfs/core/commands/e"
+	oldcmds "github.com/elastos/Elastos.NET.Hive.IPFS/commands"
+	lgc "github.com/elastos/Elastos.NET.Hive.IPFS/commands/legacy"
+	cmdenv "github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/cmdenv"
+	e "github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/e"
 	bitswap "gx/ipfs/QmNkxFCmPtr2RQxjZNRCNryLud4L9wMEiBJsLgF14MqTHj/go-bitswap"
 	decision "gx/ipfs/QmNkxFCmPtr2RQxjZNRCNryLud4L9wMEiBJsLgF14MqTHj/go-bitswap/decision"
 

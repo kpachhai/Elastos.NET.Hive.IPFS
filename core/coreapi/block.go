@@ -7,9 +7,9 @@ import (
 	"io"
 	"io/ioutil"
 
-	util "github.com/ipfs/go-ipfs/blocks/blockstoreutil"
-	coreiface "github.com/ipfs/go-ipfs/core/coreapi/interface"
-	caopts "github.com/ipfs/go-ipfs/core/coreapi/interface/options"
+	util "github.com/elastos/Elastos.NET.Hive.IPFS/blocks/blockstoreutil"
+	coreiface "github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface"
+	caopts "github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface/options"
 
 	cid "gx/ipfs/QmPSQnBKM9g7BaUcZCvswUJVscQ1ipjmwxN5PXCjkp9EQ7/go-cid"
 	blocks "gx/ipfs/QmRcHuYzAyswytBuMF78rj3LTChYszomRFXNg4685ZN1WM/go-block-format"

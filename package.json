@@ -1,9 +1,9 @@
 {
   "bugs": {
-    "url": "https://github.com/ipfs/go-ipfs"
+    "url": "https://github.com/elastos/Elastos.NET.Hive.IPFS"
   },
   "gx": {
-    "dvcsimport": "github.com/ipfs/go-ipfs",
+    "dvcsimport": "github.com/elastos/Elastos.NET.Hive.IPFS",
     "goversion": "1.11"
   },
   "gxDependencies": [

@@ -5,7 +5,7 @@ Packages underneath core/ provide a (relatively) stable, low-level API
 to carry out most IPFS-related tasks.  For more details on the other
 interfaces and how core/... fits into the bigger IPFS picture, see:
 
-  $ godoc github.com/ipfs/go-ipfs
+  $ godoc github.com/elastos/Elastos.NET.Hive.IPFS
 */
 package core
 
@@ -20,15 +20,15 @@ import (
 	"strings"
 	"time"
 
-	version "github.com/ipfs/go-ipfs"
-	rp "github.com/ipfs/go-ipfs/exchange/reprovide"
-	filestore "github.com/ipfs/go-ipfs/filestore"
-	mount "github.com/ipfs/go-ipfs/fuse/mount"
-	namesys "github.com/ipfs/go-ipfs/namesys"
-	ipnsrp "github.com/ipfs/go-ipfs/namesys/republisher"
-	p2p "github.com/ipfs/go-ipfs/p2p"
-	pin "github.com/ipfs/go-ipfs/pin"
-	repo "github.com/ipfs/go-ipfs/repo"
+	version "github.com/elastos/Elastos.NET.Hive.IPFS"
+	rp "github.com/elastos/Elastos.NET.Hive.IPFS/exchange/reprovide"
+	filestore "github.com/elastos/Elastos.NET.Hive.IPFS/filestore"
+	mount "github.com/elastos/Elastos.NET.Hive.IPFS/fuse/mount"
+	namesys "github.com/elastos/Elastos.NET.Hive.IPFS/namesys"
+	ipnsrp "github.com/elastos/Elastos.NET.Hive.IPFS/namesys/republisher"
+	p2p "github.com/elastos/Elastos.NET.Hive.IPFS/p2p"
+	pin "github.com/elastos/Elastos.NET.Hive.IPFS/pin"
+	repo "github.com/elastos/Elastos.NET.Hive.IPFS/repo"
 
 	bitswap "gx/ipfs/QmNkxFCmPtr2RQxjZNRCNryLud4L9wMEiBJsLgF14MqTHj/go-bitswap"
 	bsnet "gx/ipfs/QmNkxFCmPtr2RQxjZNRCNryLud4L9wMEiBJsLgF14MqTHj/go-bitswap/network"

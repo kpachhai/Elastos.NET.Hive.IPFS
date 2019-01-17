@@ -6,10 +6,10 @@ import (
 	"io"
 	"sort"
 
-	cmds "github.com/ipfs/go-ipfs/commands"
-	e "github.com/ipfs/go-ipfs/core/commands/e"
-	repo "github.com/ipfs/go-ipfs/repo"
-	"github.com/ipfs/go-ipfs/repo/fsrepo"
+	cmds "github.com/elastos/Elastos.NET.Hive.IPFS/commands"
+	e "github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/e"
+	repo "github.com/elastos/Elastos.NET.Hive.IPFS/repo"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/repo/fsrepo"
 
 	config "gx/ipfs/QmVFZsFtfRgn6hxEAyW5rDiuUYPpiCML4XHtz1p7LDsdon/go-ipfs-config"
 	"gx/ipfs/Qmde5VP1qUkyQXKCfmEUA7bP64V2HAptbJ7phuPp7jXWwg/go-ipfs-cmdkit"

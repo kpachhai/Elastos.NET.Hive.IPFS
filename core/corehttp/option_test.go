@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	version "github.com/ipfs/go-ipfs"
+	version "github.com/elastos/Elastos.NET.Hive.IPFS"
 )
 
 type testcasecheckversion struct {

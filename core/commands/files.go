@@ -11,12 +11,12 @@ import (
 	"sort"
 	"strings"
 
-	oldcmds "github.com/ipfs/go-ipfs/commands"
-	lgc "github.com/ipfs/go-ipfs/commands/legacy"
-	core "github.com/ipfs/go-ipfs/core"
-	cmdenv "github.com/ipfs/go-ipfs/core/commands/cmdenv"
-	e "github.com/ipfs/go-ipfs/core/commands/e"
-	"github.com/ipfs/go-ipfs/core/coreapi/interface"
+	oldcmds "github.com/elastos/Elastos.NET.Hive.IPFS/commands"
+	lgc "github.com/elastos/Elastos.NET.Hive.IPFS/commands/legacy"
+	core "github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	cmdenv "github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/cmdenv"
+	e "github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/e"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface"
 
 	humanize "gx/ipfs/QmPSBJL4momYnE7DcUyk2DVhD6rH488ZmHBGLbxNdhU44K/go-humanize"
 	cid "gx/ipfs/QmPSQnBKM9g7BaUcZCvswUJVscQ1ipjmwxN5PXCjkp9EQ7/go-cid"

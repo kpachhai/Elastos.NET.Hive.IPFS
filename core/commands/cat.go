@@ -6,8 +6,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/ipfs/go-ipfs/core/commands/cmdenv"
-	"github.com/ipfs/go-ipfs/core/coreapi/interface"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/cmdenv"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface"
 
 	cmds "gx/ipfs/QmSXUokcP4TJpFfqozT69AVAYRtzXVMUjzQVkYX41R9Svs/go-ipfs-cmds"
 	"gx/ipfs/Qmde5VP1qUkyQXKCfmEUA7bP64V2HAptbJ7phuPp7jXWwg/go-ipfs-cmdkit"

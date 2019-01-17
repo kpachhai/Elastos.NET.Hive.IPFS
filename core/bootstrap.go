@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	math2 "github.com/ipfs/go-ipfs/thirdparty/math2"
+	math2 "github.com/elastos/Elastos.NET.Hive.IPFS/thirdparty/math2"
 	lgbl "gx/ipfs/QmVrDtvvQCUeMZaY9UFkae6c85kdQ1GvVEhPrjPTdjxRLv/go-libp2p-loggables"
 
 	goprocess "gx/ipfs/QmSF8fPo3jgVBAy8fpdjjYqgG87dkJgUprRBHRd2tmfgpP/goprocess"

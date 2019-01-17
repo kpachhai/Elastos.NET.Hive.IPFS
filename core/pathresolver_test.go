@@ -3,8 +3,8 @@ package core_test
 import (
 	"testing"
 
-	core "github.com/ipfs/go-ipfs/core"
-	coremock "github.com/ipfs/go-ipfs/core/mock"
+	core "github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	coremock "github.com/elastos/Elastos.NET.Hive.IPFS/core/mock"
 	path "gx/ipfs/QmT3rzed1ppXefourpmoZ7tyVQfsGPQZ1pHDngLmCvXxd3/go-path"
 )
 

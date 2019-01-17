@@ -5,8 +5,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/ipfs/go-ipfs/core"
-	"github.com/ipfs/go-ipfs/core/mock"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core/mock"
 	"gx/ipfs/QmRcHuYzAyswytBuMF78rj3LTChYszomRFXNg4685ZN1WM/go-block-format"
 
 	cid "gx/ipfs/QmPSQnBKM9g7BaUcZCvswUJVscQ1ipjmwxN5PXCjkp9EQ7/go-cid"

@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"sort"
 
-	repo "github.com/ipfs/go-ipfs/repo"
+	repo "github.com/elastos/Elastos.NET.Hive.IPFS/repo"
 
 	humanize "gx/ipfs/QmPSBJL4momYnE7DcUyk2DVhD6rH488ZmHBGLbxNdhU44K/go-humanize"
 	measure "gx/ipfs/QmQS6UXi1R87y9nEgnCNmG6YfMzvBSLir7xUheMNFP3hoe/go-ds-measure"

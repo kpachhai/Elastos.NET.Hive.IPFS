@@ -10,10 +10,10 @@ import (
 
 	"context"
 
-	core "github.com/ipfs/go-ipfs/core"
-	ipns "github.com/ipfs/go-ipfs/fuse/ipns"
-	mount "github.com/ipfs/go-ipfs/fuse/mount"
-	namesys "github.com/ipfs/go-ipfs/namesys"
+	core "github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	ipns "github.com/elastos/Elastos.NET.Hive.IPFS/fuse/ipns"
+	mount "github.com/elastos/Elastos.NET.Hive.IPFS/fuse/mount"
+	namesys "github.com/elastos/Elastos.NET.Hive.IPFS/namesys"
 
 	ci "gx/ipfs/Qma6ESRQTf1ZLPgzpCwDTqQJefPnU6uLvMjP18vK8EWp8L/go-testutil/ci"
 	offroute "gx/ipfs/QmcjvUP25nLSwELgUeqWe854S3XVbtsntTr7kZxG63yKhe/go-ipfs-routing/offline"

@@ -5,9 +5,9 @@ import (
 	"net"
 	"net/http"
 
-	version "github.com/ipfs/go-ipfs"
-	core "github.com/ipfs/go-ipfs/core"
-	coreapi "github.com/ipfs/go-ipfs/core/coreapi"
+	version "github.com/elastos/Elastos.NET.Hive.IPFS"
+	core "github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	coreapi "github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi"
 
 	id "gx/ipfs/QmUDTcnDp2WssbmiDLC6aYurUeyt7QeRakHUQMxA2mZ5iB/go-libp2p/p2p/protocol/identify"
 )

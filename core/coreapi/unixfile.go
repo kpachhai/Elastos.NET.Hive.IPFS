@@ -8,7 +8,7 @@ import (
 	gopath "path"
 	"time"
 
-	"github.com/ipfs/go-ipfs/core/coreapi/interface"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface"
 
 	ipld "gx/ipfs/QmR7TcHkR9nxkUorfi8XMTAMLUK7GiP64TWWBzY3aacc1o/go-ipld-format"
 	dag "gx/ipfs/QmSei8kFMfqdJq7Q68d2LMnHbTWKKg2daA29ezUYFAUNgc/go-merkledag"

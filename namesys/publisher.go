@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	pin "github.com/ipfs/go-ipfs/pin"
+	pin "github.com/elastos/Elastos.NET.Hive.IPFS/pin"
 	path "gx/ipfs/QmT3rzed1ppXefourpmoZ7tyVQfsGPQZ1pHDngLmCvXxd3/go-path"
 	ft "gx/ipfs/QmfB3oNXGGq9S4B2a9YeCajoATms3Zw2VvDm8fK7VeLSV8/go-unixfs"
 

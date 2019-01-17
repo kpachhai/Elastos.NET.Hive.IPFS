@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"io"
 
-	core "github.com/ipfs/go-ipfs/core"
-	cmdenv "github.com/ipfs/go-ipfs/core/commands/cmdenv"
-	coreiface "github.com/ipfs/go-ipfs/core/coreapi/interface"
-	tar "github.com/ipfs/go-ipfs/tar"
+	core "github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	cmdenv "github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/cmdenv"
+	coreiface "github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface"
+	tar "github.com/elastos/Elastos.NET.Hive.IPFS/tar"
 
 	cmds "gx/ipfs/QmSXUokcP4TJpFfqozT69AVAYRtzXVMUjzQVkYX41R9Svs/go-ipfs-cmds"
 	dag "gx/ipfs/QmSei8kFMfqdJq7Q68d2LMnHbTWKKg2daA29ezUYFAUNgc/go-merkledag"

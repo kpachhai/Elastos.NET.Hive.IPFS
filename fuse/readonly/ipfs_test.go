@@ -13,10 +13,10 @@ import (
 	"sync"
 	"testing"
 
-	core "github.com/ipfs/go-ipfs/core"
-	coreapi "github.com/ipfs/go-ipfs/core/coreapi"
-	iface "github.com/ipfs/go-ipfs/core/coreapi/interface"
-	coremock "github.com/ipfs/go-ipfs/core/mock"
+	core "github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	coreapi "github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi"
+	iface "github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface"
+	coremock "github.com/elastos/Elastos.NET.Hive.IPFS/core/mock"
 
 	u "gx/ipfs/QmPdKqUcHGFdeSpvjVoaTRPPstGif9GBZb5Q56RVw9o69A/go-ipfs-util"
 	ipld "gx/ipfs/QmR7TcHkR9nxkUorfi8XMTAMLUK7GiP64TWWBzY3aacc1o/go-ipld-format"

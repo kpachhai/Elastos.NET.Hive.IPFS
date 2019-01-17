@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ipfs/go-ipfs/core/coreapi/interface"
-	opt "github.com/ipfs/go-ipfs/core/coreapi/interface/options"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface"
+	opt "github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface/options"
 )
 
 func TestNew(t *testing.T) {

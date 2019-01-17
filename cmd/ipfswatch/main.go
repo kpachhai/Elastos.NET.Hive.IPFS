@@ -9,11 +9,11 @@ import (
 	"path/filepath"
 	"syscall"
 
-	commands "github.com/ipfs/go-ipfs/commands"
-	core "github.com/ipfs/go-ipfs/core"
-	corehttp "github.com/ipfs/go-ipfs/core/corehttp"
-	coreunix "github.com/ipfs/go-ipfs/core/coreunix"
-	fsrepo "github.com/ipfs/go-ipfs/repo/fsrepo"
+	commands "github.com/elastos/Elastos.NET.Hive.IPFS/commands"
+	core "github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	corehttp "github.com/elastos/Elastos.NET.Hive.IPFS/core/corehttp"
+	coreunix "github.com/elastos/Elastos.NET.Hive.IPFS/core/coreunix"
+	fsrepo "github.com/elastos/Elastos.NET.Hive.IPFS/repo/fsrepo"
 
 	process "gx/ipfs/QmSF8fPo3jgVBAy8fpdjjYqgG87dkJgUprRBHRd2tmfgpP/goprocess"
 	config "gx/ipfs/QmVFZsFtfRgn6hxEAyW5rDiuUYPpiCML4XHtz1p7LDsdon/go-ipfs-config"

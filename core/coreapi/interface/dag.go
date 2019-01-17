@@ -4,7 +4,7 @@ import (
 	"context"
 	"io"
 
-	"github.com/ipfs/go-ipfs/core/coreapi/interface/options"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface/options"
 
 	ipld "gx/ipfs/QmR7TcHkR9nxkUorfi8XMTAMLUK7GiP64TWWBzY3aacc1o/go-ipld-format"
 )

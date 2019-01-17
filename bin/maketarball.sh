@@ -9,7 +9,7 @@ IFS=$'\n\t'
 OUTPUT="${1:-go-ipfs-source.tar.gz}"
 
 TMPDIR="$(mktemp -d)"
-NEWIPFS="$TMPDIR/github.com/ipfs/go-ipfs"
+NEWIPFS="$TMPDIR/github.com/elastos/Elastos.NET.Hive.IPFS"
 mkdir -p "$NEWIPFS"
 cp -r . "$NEWIPFS"
 ( cd "$NEWIPFS" &&

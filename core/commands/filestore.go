@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"io"
 
-	oldCmds "github.com/ipfs/go-ipfs/commands"
-	lgc "github.com/ipfs/go-ipfs/commands/legacy"
-	"github.com/ipfs/go-ipfs/core"
-	cmdenv "github.com/ipfs/go-ipfs/core/commands/cmdenv"
-	e "github.com/ipfs/go-ipfs/core/commands/e"
-	"github.com/ipfs/go-ipfs/filestore"
+	oldCmds "github.com/elastos/Elastos.NET.Hive.IPFS/commands"
+	lgc "github.com/elastos/Elastos.NET.Hive.IPFS/commands/legacy"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	cmdenv "github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/cmdenv"
+	e "github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/e"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/filestore"
 
 	cid "gx/ipfs/QmPSQnBKM9g7BaUcZCvswUJVscQ1ipjmwxN5PXCjkp9EQ7/go-cid"
 	cmds "gx/ipfs/QmSXUokcP4TJpFfqozT69AVAYRtzXVMUjzQVkYX41R9Svs/go-ipfs-cmds"

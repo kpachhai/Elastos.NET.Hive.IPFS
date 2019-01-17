@@ -5,8 +5,8 @@ import (
 	"path"
 	"runtime"
 
-	version "github.com/ipfs/go-ipfs"
-	cmds "github.com/ipfs/go-ipfs/commands"
+	version "github.com/elastos/Elastos.NET.Hive.IPFS"
+	cmds "github.com/elastos/Elastos.NET.Hive.IPFS/commands"
 
 	sysi "gx/ipfs/QmZRjKbHa6DenStpQJFiaPcEwkZqrx7TH6xTf342LDU3qM/go-sysinfo"
 	manet "gx/ipfs/Qmaabb1tJZ2CX5cp6MuuiGgns71NYoxdgQP6Xdid1dVceC/go-multiaddr-net"

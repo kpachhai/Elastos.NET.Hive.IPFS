@@ -11,9 +11,9 @@ import (
 	"text/tabwriter"
 	"time"
 
-	cmds "github.com/ipfs/go-ipfs/commands"
-	core "github.com/ipfs/go-ipfs/core"
-	p2p "github.com/ipfs/go-ipfs/p2p"
+	cmds "github.com/elastos/Elastos.NET.Hive.IPFS/commands"
+	core "github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	p2p "github.com/elastos/Elastos.NET.Hive.IPFS/p2p"
 
 	ma "gx/ipfs/QmT4U94DnD8FRfqr21obWY32HLM5VExccPKMjQHofeYqr9/go-multiaddr"
 	pstore "gx/ipfs/QmTTJcDL3gsnGDALjh2fDGg1onGRUdVgNL2hU2WEZcVrMX/go-libp2p-peerstore"

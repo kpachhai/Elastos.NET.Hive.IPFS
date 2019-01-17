@@ -8,10 +8,10 @@ import (
 	"strings"
 	"sync"
 
-	core "github.com/ipfs/go-ipfs/core"
-	ipns "github.com/ipfs/go-ipfs/fuse/ipns"
-	mount "github.com/ipfs/go-ipfs/fuse/mount"
-	rofs "github.com/ipfs/go-ipfs/fuse/readonly"
+	core "github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	ipns "github.com/elastos/Elastos.NET.Hive.IPFS/fuse/ipns"
+	mount "github.com/elastos/Elastos.NET.Hive.IPFS/fuse/mount"
+	rofs "github.com/elastos/Elastos.NET.Hive.IPFS/fuse/readonly"
 
 	logging "gx/ipfs/QmZChCsSt8DctjceaL56Eibc29CVQq4dGKRXC5JRZ6Ppae/go-log"
 )

@@ -7,9 +7,9 @@ import (
 	"sort"
 	"text/tabwriter"
 
-	cmds "github.com/ipfs/go-ipfs/commands"
-	e "github.com/ipfs/go-ipfs/core/commands/e"
-	iface "github.com/ipfs/go-ipfs/core/coreapi/interface"
+	cmds "github.com/elastos/Elastos.NET.Hive.IPFS/commands"
+	e "github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/e"
+	iface "github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface"
 
 	merkledag "gx/ipfs/QmSei8kFMfqdJq7Q68d2LMnHbTWKKg2daA29ezUYFAUNgc/go-merkledag"
 	cmdkit "gx/ipfs/Qmde5VP1qUkyQXKCfmEUA7bP64V2HAptbJ7phuPp7jXWwg/go-ipfs-cmdkit"

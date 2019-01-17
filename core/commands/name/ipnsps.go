@@ -5,8 +5,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/ipfs/go-ipfs/core/commands/cmdenv"
-	"github.com/ipfs/go-ipfs/core/commands/e"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/cmdenv"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/e"
 
 	"gx/ipfs/QmSXUokcP4TJpFfqozT69AVAYRtzXVMUjzQVkYX41R9Svs/go-ipfs-cmds"
 	"gx/ipfs/QmTRhk7cgjUf2gfQ3p2M9KPECNZEW9XUrmHcFCgog4cPgB/go-libp2p-peer"

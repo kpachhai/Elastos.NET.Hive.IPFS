@@ -1,7 +1,7 @@
 package commands
 
 import (
-	cmds "github.com/ipfs/go-ipfs/commands"
+	cmds "github.com/elastos/Elastos.NET.Hive.IPFS/commands"
 
 	"gx/ipfs/Qmde5VP1qUkyQXKCfmEUA7bP64V2HAptbJ7phuPp7jXWwg/go-ipfs-cmdkit"
 )

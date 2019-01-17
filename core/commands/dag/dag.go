@@ -5,9 +5,9 @@ import (
 	"io"
 	"math"
 
-	"github.com/ipfs/go-ipfs/core/commands/cmdenv"
-	"github.com/ipfs/go-ipfs/core/coredag"
-	"github.com/ipfs/go-ipfs/pin"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/cmdenv"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core/coredag"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/pin"
 
 	cid "gx/ipfs/QmPSQnBKM9g7BaUcZCvswUJVscQ1ipjmwxN5PXCjkp9EQ7/go-cid"
 	mh "gx/ipfs/QmPnFwZ2JXKnXgMw8CdBPxn7FWh6LLdjUjxV1fKHuJnkr8/go-multihash"

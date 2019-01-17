@@ -2,7 +2,7 @@ package coreapi_test
 
 import (
 	"context"
-	"github.com/ipfs/go-ipfs/core"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core"
 	"io"
 	"io/ioutil"
 	"math/rand"
@@ -13,8 +13,8 @@ import (
 	ipath "gx/ipfs/QmT3rzed1ppXefourpmoZ7tyVQfsGPQZ1pHDngLmCvXxd3/go-path"
 	files "gx/ipfs/QmZMWMvWMVKCbHetJ4RgndbuEF1io2UpUxwQwtNjtYPzSC/go-ipfs-files"
 
-	coreiface "github.com/ipfs/go-ipfs/core/coreapi/interface"
-	opt "github.com/ipfs/go-ipfs/core/coreapi/interface/options"
+	coreiface "github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface"
+	opt "github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface/options"
 )
 
 var rnd = rand.New(rand.NewSource(0x62796532303137))

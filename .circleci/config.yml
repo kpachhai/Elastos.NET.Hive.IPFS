@@ -13,7 +13,7 @@ defaults: &defaults
     CIRCLE_ARTIFACTS: /tmp/circleci-artifacts
     TEST_VERBOSE: 1
     TRAVIS: 1
-    IMPORT_PATH: github.com/ipfs/go-ipfs
+    IMPORT_PATH: github.com/elastos/Elastos.NET.Hive.IPFS
 
   docker:
   - image: circleci/build-image:ubuntu-14.04-XXL-upstart-1189-5614f37

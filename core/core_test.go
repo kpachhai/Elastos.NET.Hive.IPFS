@@ -5,7 +5,7 @@ import (
 
 	context "context"
 
-	"github.com/ipfs/go-ipfs/repo"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/repo"
 
 	config "gx/ipfs/QmVFZsFtfRgn6hxEAyW5rDiuUYPpiCML4XHtz1p7LDsdon/go-ipfs-config"
 	datastore "gx/ipfs/QmaRb5yNXKonhbkpNxNawoydk4N6es6b4fPj19sjEKsh5D/go-datastore"

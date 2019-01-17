@@ -12,7 +12,7 @@ import (
 	blockstore "gx/ipfs/QmcDDgAXDbpDUpadCJKLr49KYR4HuL7T8Z1dZTHt6ixsoR/go-ipfs-blockstore"
 	mock "gx/ipfs/QmcjvUP25nLSwELgUeqWe854S3XVbtsntTr7kZxG63yKhe/go-ipfs-routing/mock"
 
-	. "github.com/ipfs/go-ipfs/exchange/reprovide"
+	. "github.com/elastos/Elastos.NET.Hive.IPFS/exchange/reprovide"
 )
 
 func TestReprovide(t *testing.T) {

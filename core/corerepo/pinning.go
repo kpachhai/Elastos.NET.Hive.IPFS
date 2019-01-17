@@ -17,8 +17,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/ipfs/go-ipfs/core"
-	"github.com/ipfs/go-ipfs/core/coreapi/interface"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface"
 
 	"gx/ipfs/QmPSQnBKM9g7BaUcZCvswUJVscQ1ipjmwxN5PXCjkp9EQ7/go-cid"
 )

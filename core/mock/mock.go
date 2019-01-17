@@ -3,9 +3,9 @@ package coremock
 import (
 	"context"
 
-	commands "github.com/ipfs/go-ipfs/commands"
-	core "github.com/ipfs/go-ipfs/core"
-	"github.com/ipfs/go-ipfs/repo"
+	commands "github.com/elastos/Elastos.NET.Hive.IPFS/commands"
+	core "github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/repo"
 
 	peer "gx/ipfs/QmTRhk7cgjUf2gfQ3p2M9KPECNZEW9XUrmHcFCgog4cPgB/go-libp2p-peer"
 	pstore "gx/ipfs/QmTTJcDL3gsnGDALjh2fDGg1onGRUdVgNL2hU2WEZcVrMX/go-libp2p-peerstore"

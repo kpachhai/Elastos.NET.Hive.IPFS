@@ -10,12 +10,12 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	oldcmds "github.com/ipfs/go-ipfs/commands"
-	lgc "github.com/ipfs/go-ipfs/commands/legacy"
-	cmdenv "github.com/ipfs/go-ipfs/core/commands/cmdenv"
-	e "github.com/ipfs/go-ipfs/core/commands/e"
-	corerepo "github.com/ipfs/go-ipfs/core/corerepo"
-	fsrepo "github.com/ipfs/go-ipfs/repo/fsrepo"
+	oldcmds "github.com/elastos/Elastos.NET.Hive.IPFS/commands"
+	lgc "github.com/elastos/Elastos.NET.Hive.IPFS/commands/legacy"
+	cmdenv "github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/cmdenv"
+	e "github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/e"
+	corerepo "github.com/elastos/Elastos.NET.Hive.IPFS/core/corerepo"
+	fsrepo "github.com/elastos/Elastos.NET.Hive.IPFS/repo/fsrepo"
 
 	cid "gx/ipfs/QmPSQnBKM9g7BaUcZCvswUJVscQ1ipjmwxN5PXCjkp9EQ7/go-cid"
 	cmds "gx/ipfs/QmSXUokcP4TJpFfqozT69AVAYRtzXVMUjzQVkYX41R9Svs/go-ipfs-cmds"

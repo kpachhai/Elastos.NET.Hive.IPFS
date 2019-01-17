@@ -10,11 +10,11 @@ import (
 	"path"
 	"strings"
 
-	assets "github.com/ipfs/go-ipfs/assets"
-	oldcmds "github.com/ipfs/go-ipfs/commands"
-	core "github.com/ipfs/go-ipfs/core"
-	namesys "github.com/ipfs/go-ipfs/namesys"
-	fsrepo "github.com/ipfs/go-ipfs/repo/fsrepo"
+	assets "github.com/elastos/Elastos.NET.Hive.IPFS/assets"
+	oldcmds "github.com/elastos/Elastos.NET.Hive.IPFS/commands"
+	core "github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	namesys "github.com/elastos/Elastos.NET.Hive.IPFS/namesys"
+	fsrepo "github.com/elastos/Elastos.NET.Hive.IPFS/repo/fsrepo"
 
 	"gx/ipfs/QmSXUokcP4TJpFfqozT69AVAYRtzXVMUjzQVkYX41R9Svs/go-ipfs-cmds"
 	"gx/ipfs/QmVFZsFtfRgn6hxEAyW5rDiuUYPpiCML4XHtz1p7LDsdon/go-ipfs-config"

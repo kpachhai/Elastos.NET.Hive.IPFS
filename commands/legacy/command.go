@@ -3,7 +3,7 @@ package legacy
 import (
 	"io"
 
-	oldcmds "github.com/ipfs/go-ipfs/commands"
+	oldcmds "github.com/elastos/Elastos.NET.Hive.IPFS/commands"
 
 	"gx/ipfs/QmSXUokcP4TJpFfqozT69AVAYRtzXVMUjzQVkYX41R9Svs/go-ipfs-cmds"
 	logging "gx/ipfs/QmZChCsSt8DctjceaL56Eibc29CVQq4dGKRXC5JRZ6Ppae/go-log"

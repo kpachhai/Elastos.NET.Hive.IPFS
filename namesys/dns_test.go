@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	opts "github.com/ipfs/go-ipfs/namesys/opts"
+	opts "github.com/elastos/Elastos.NET.Hive.IPFS/namesys/opts"
 )
 
 type mockDNS struct {

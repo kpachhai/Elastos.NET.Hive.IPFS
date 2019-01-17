@@ -1,7 +1,7 @@
 package plugin
 
 import (
-	"github.com/ipfs/go-ipfs/repo/fsrepo"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/repo/fsrepo"
 )
 
 // PluginDatastore is an interface that can be implemented to add handlers for

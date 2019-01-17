@@ -6,7 +6,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/ipfs/go-ipfs/assets"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/assets"
 )
 
 // structs for directory listing

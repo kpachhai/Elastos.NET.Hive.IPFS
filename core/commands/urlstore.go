@@ -5,8 +5,8 @@ import (
 	"io"
 	"net/http"
 
-	cmdenv "github.com/ipfs/go-ipfs/core/commands/cmdenv"
-	filestore "github.com/ipfs/go-ipfs/filestore"
+	cmdenv "github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/cmdenv"
+	filestore "github.com/elastos/Elastos.NET.Hive.IPFS/filestore"
 
 	cid "gx/ipfs/QmPSQnBKM9g7BaUcZCvswUJVscQ1ipjmwxN5PXCjkp9EQ7/go-cid"
 	mh "gx/ipfs/QmPnFwZ2JXKnXgMw8CdBPxn7FWh6LLdjUjxV1fKHuJnkr8/go-multihash"

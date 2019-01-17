@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/ipfs/go-ipfs/thirdparty/assert"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/thirdparty/assert"
 )
 
 func testVersionFile(v string, t *testing.T) (rp RepoPath) {

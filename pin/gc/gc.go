@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strings"
 
-	pin "github.com/ipfs/go-ipfs/pin"
+	pin "github.com/elastos/Elastos.NET.Hive.IPFS/pin"
 	dag "gx/ipfs/QmSei8kFMfqdJq7Q68d2LMnHbTWKKg2daA29ezUYFAUNgc/go-merkledag"
 	bserv "gx/ipfs/QmWfhv1D18DRSiSm73r4QGcByspzPtxxRTcmHW3axFXZo8/go-blockservice"
 

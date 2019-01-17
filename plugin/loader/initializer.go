@@ -1,9 +1,9 @@
 package loader
 
 import (
-	"github.com/ipfs/go-ipfs/core/coredag"
-	"github.com/ipfs/go-ipfs/plugin"
-	"github.com/ipfs/go-ipfs/repo/fsrepo"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core/coredag"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/plugin"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/repo/fsrepo"
 
 	ipld "gx/ipfs/QmR7TcHkR9nxkUorfi8XMTAMLUK7GiP64TWWBzY3aacc1o/go-ipld-format"
 	"gx/ipfs/QmWLWmRVSiagqP15jczsGME1qpob6HDbtbHAY2he9W5iUo/opentracing-go"

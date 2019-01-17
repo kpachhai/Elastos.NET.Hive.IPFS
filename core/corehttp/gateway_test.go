@@ -11,12 +11,12 @@ import (
 	"testing"
 	"time"
 
-	version "github.com/ipfs/go-ipfs"
-	core "github.com/ipfs/go-ipfs/core"
-	coreunix "github.com/ipfs/go-ipfs/core/coreunix"
-	namesys "github.com/ipfs/go-ipfs/namesys"
-	nsopts "github.com/ipfs/go-ipfs/namesys/opts"
-	repo "github.com/ipfs/go-ipfs/repo"
+	version "github.com/elastos/Elastos.NET.Hive.IPFS"
+	core "github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	coreunix "github.com/elastos/Elastos.NET.Hive.IPFS/core/coreunix"
+	namesys "github.com/elastos/Elastos.NET.Hive.IPFS/namesys"
+	nsopts "github.com/elastos/Elastos.NET.Hive.IPFS/namesys/opts"
+	repo "github.com/elastos/Elastos.NET.Hive.IPFS/repo"
 
 	ci "gx/ipfs/QmPvyPwuCgJ7pDmrKDxRtsScJgBaM5h4EpRL2qQJsmXf4n/go-libp2p-crypto"
 	dag "gx/ipfs/QmSei8kFMfqdJq7Q68d2LMnHbTWKKg2daA29ezUYFAUNgc/go-merkledag"

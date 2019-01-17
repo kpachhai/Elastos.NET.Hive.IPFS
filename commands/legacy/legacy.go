@@ -6,7 +6,7 @@ import (
 
 	"gx/ipfs/QmSXUokcP4TJpFfqozT69AVAYRtzXVMUjzQVkYX41R9Svs/go-ipfs-cmds"
 
-	oldcmds "github.com/ipfs/go-ipfs/commands"
+	oldcmds "github.com/elastos/Elastos.NET.Hive.IPFS/commands"
 )
 
 // MarshalerEncoder implements Encoder from a Marshaler

@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"io"
 
-	ncmd "github.com/ipfs/go-ipfs/core/commands/name"
-	namesys "github.com/ipfs/go-ipfs/namesys"
-	nsopts "github.com/ipfs/go-ipfs/namesys/opts"
+	ncmd "github.com/elastos/Elastos.NET.Hive.IPFS/core/commands/name"
+	namesys "github.com/elastos/Elastos.NET.Hive.IPFS/namesys"
+	nsopts "github.com/elastos/Elastos.NET.Hive.IPFS/namesys/opts"
 
 	cmds "gx/ipfs/QmSXUokcP4TJpFfqozT69AVAYRtzXVMUjzQVkYX41R9Svs/go-ipfs-cmds"
 	cmdkit "gx/ipfs/Qmde5VP1qUkyQXKCfmEUA7bP64V2HAptbJ7phuPp7jXWwg/go-ipfs-cmdkit"

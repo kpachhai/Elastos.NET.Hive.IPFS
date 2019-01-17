@@ -6,8 +6,8 @@ import (
 
 	context "context"
 
-	"github.com/ipfs/go-ipfs/core"
-	fsrepo "github.com/ipfs/go-ipfs/repo/fsrepo"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	fsrepo "github.com/elastos/Elastos.NET.Hive.IPFS/repo/fsrepo"
 
 	humanize "gx/ipfs/QmPSBJL4momYnE7DcUyk2DVhD6rH488ZmHBGLbxNdhU44K/go-humanize"
 )

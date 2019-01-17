@@ -3,7 +3,7 @@ package reprovide
 import (
 	"context"
 
-	pin "github.com/ipfs/go-ipfs/pin"
+	pin "github.com/elastos/Elastos.NET.Hive.IPFS/pin"
 
 	cid "gx/ipfs/QmPSQnBKM9g7BaUcZCvswUJVscQ1ipjmwxN5PXCjkp9EQ7/go-cid"
 	cidutil "gx/ipfs/QmQJSeE3CX4zos9qeaG8EhecEK9zvrTEfTG84J8C5NVRwt/go-cidutil"

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/ipfs/go-ipfs/pin"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/pin"
 
 	cid "gx/ipfs/QmPSQnBKM9g7BaUcZCvswUJVscQ1ipjmwxN5PXCjkp9EQ7/go-cid"
 	ds "gx/ipfs/QmaRb5yNXKonhbkpNxNawoydk4N6es6b4fPj19sjEKsh5D/go-datastore"

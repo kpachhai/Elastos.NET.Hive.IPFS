@@ -6,10 +6,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ipfs/go-ipfs/core"
-	mock "github.com/ipfs/go-ipfs/core/mock"
-	namesys "github.com/ipfs/go-ipfs/namesys"
-	. "github.com/ipfs/go-ipfs/namesys/republisher"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	mock "github.com/elastos/Elastos.NET.Hive.IPFS/core/mock"
+	namesys "github.com/elastos/Elastos.NET.Hive.IPFS/namesys"
+	. "github.com/elastos/Elastos.NET.Hive.IPFS/namesys/republisher"
 	path "gx/ipfs/QmT3rzed1ppXefourpmoZ7tyVQfsGPQZ1pHDngLmCvXxd3/go-path"
 
 	goprocess "gx/ipfs/QmSF8fPo3jgVBAy8fpdjjYqgG87dkJgUprRBHRd2tmfgpP/goprocess"

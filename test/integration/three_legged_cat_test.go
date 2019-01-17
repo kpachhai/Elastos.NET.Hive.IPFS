@@ -9,12 +9,12 @@ import (
 	"testing"
 	"time"
 
-	core "github.com/ipfs/go-ipfs/core"
-	"github.com/ipfs/go-ipfs/core/coreapi"
-	"github.com/ipfs/go-ipfs/core/coreapi/interface"
-	coreunix "github.com/ipfs/go-ipfs/core/coreunix"
-	mock "github.com/ipfs/go-ipfs/core/mock"
-	"github.com/ipfs/go-ipfs/thirdparty/unit"
+	core "github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface"
+	coreunix "github.com/elastos/Elastos.NET.Hive.IPFS/core/coreunix"
+	mock "github.com/elastos/Elastos.NET.Hive.IPFS/core/mock"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/thirdparty/unit"
 
 	pstore "gx/ipfs/QmTTJcDL3gsnGDALjh2fDGg1onGRUdVgNL2hU2WEZcVrMX/go-libp2p-peerstore"
 	mocknet "gx/ipfs/QmUDTcnDp2WssbmiDLC6aYurUeyt7QeRakHUQMxA2mZ5iB/go-libp2p/p2p/net/mock"

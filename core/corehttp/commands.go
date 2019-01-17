@@ -9,10 +9,10 @@ import (
 	"strconv"
 	"strings"
 
-	version "github.com/ipfs/go-ipfs"
-	oldcmds "github.com/ipfs/go-ipfs/commands"
-	"github.com/ipfs/go-ipfs/core"
-	corecommands "github.com/ipfs/go-ipfs/core/commands"
+	version "github.com/elastos/Elastos.NET.Hive.IPFS"
+	oldcmds "github.com/elastos/Elastos.NET.Hive.IPFS/commands"
+	"github.com/elastos/Elastos.NET.Hive.IPFS/core"
+	corecommands "github.com/elastos/Elastos.NET.Hive.IPFS/core/commands"
 
 	cmds "gx/ipfs/QmSXUokcP4TJpFfqozT69AVAYRtzXVMUjzQVkYX41R9Svs/go-ipfs-cmds"
 	cmdsHttp "gx/ipfs/QmSXUokcP4TJpFfqozT69AVAYRtzXVMUjzQVkYX41R9Svs/go-ipfs-cmds/http"

@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	options "github.com/ipfs/go-ipfs/core/coreapi/interface/options"
+	options "github.com/elastos/Elastos.NET.Hive.IPFS/core/coreapi/interface/options"
 )
 
 var ErrResolveFailed = errors.New("could not resolve name")
