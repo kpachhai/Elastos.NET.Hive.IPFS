@@ -192,7 +192,7 @@ $ ipfs bootstrap add /ip4/YOUR-BOOTSTRAP-IP/tcp/4001/YOUR-BOOTSTRAP-NODEID
 In general IPFS,  IPFS swarm is the network of peers connection. There is a swarm key(swarm.key file) that could be shared by the network. If IPFS daemon does not locate the swarm.key file, it will connect to global IPFS network. Otherwise, with swarm key,  the IPFS daemon will try to use it to connect a private secret network.
 
 ```
-$ get -u github.com/Kubuxu/go-ipfs-swarm-key-gen/ipfs-swarm-key-gen
+$ go get -u github.com/Kubuxu/go-ipfs-swarm-key-gen/ipfs-swarm-key-gen
 $ ipfs-swarm-key-gen > swarm.key
 $ cp swarm.key $HOME/.ipfs
 ```
