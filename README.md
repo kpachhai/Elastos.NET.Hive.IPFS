@@ -184,7 +184,7 @@ As to Hive project, you need to connect to private IPFS network by reconfiguring
 
 ```shell
 $ ipfs bootstrap rm --all
-$ ipfs bootstrap add /ip4/YOUR-BOOTSTRAP-IP/tcp/4001/YOUR-BOOTSTRAP-NODEID
+$ ipfs bootstrap add /ip4/YOUR-BOOTSTRAP-IP/tcp/4001/ipfs/YOUR-BOOTSTRAP-NODEID
 ```
 
 ### 2.  Swarm Key
