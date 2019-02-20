@@ -7,15 +7,15 @@ MAINTAINER Lars Gierth <lgierth@ipfs.io>
 # Please keep these two Dockerfiles in sync.
 
 ENV GX_IPFS ""
-ENV SRC_DIR /go/src/github.com/ipfs/go-ipfs
+ENV SRC_DIR $GOPATH/src/github.com/elastos/Elastos.NET.Hive.IPFS
 
 COPY . $SRC_DIR
+WORKDIR $SRC_DIR
 
 # Build the thing.
 # Also: fix getting HEAD commit hash via git rev-parse.
 # Also: allow using a custom IPFS API endpoint.
-RUN cd $SRC_DIR \
-  && mkdir .git/objects \
+RUN mkdir .git/objects \
   && ([ -z "$GX_IPFS" ] || echo $GX_IPFS > /root/.ipfs/api) \
   && make build
 
@@ -41,7 +41,7 @@ FROM busybox:1-glibc
 MAINTAINER Lars Gierth <lgierth@ipfs.io>
 
 # Get the ipfs binary, entrypoint script, and TLS CAs from the build container.
-ENV SRC_DIR /go/src/github.com/ipfs/go-ipfs
+ENV SRC_DIR /go/src/github.com/elastos/Elastos.NET.Hive.IPFS
 COPY --from=0 $SRC_DIR/cmd/ipfs/ipfs /usr/local/bin/ipfs
 COPY --from=0 $SRC_DIR/bin/container_daemon /usr/local/bin/start_ipfs
 COPY --from=0 /tmp/su-exec/su-exec /sbin/su-exec
